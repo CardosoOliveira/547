@@ -60,7 +60,7 @@ The `streetmix-loader` component requests a Streetmix API response when given a 
 
 | Property | Description | Default Value |
 | --------- | --------- | --------- |
-| streetmixStreetURL | A string representing a "user facing" Streetmix street URL such as https://streetmix.net/kfarr/3/ | '' |
+| streetmixStreetURL | A string representing a "user facing" Streetmix street URL such as https://streetmix.net/pedro.cardoso/15/avenida-cristiano-machado |''|
 | streetmixAPIURL | A string representing the Streetmix API street URL such as https://streetmix.net/api/v1/streets/7a633310-e598-11e6-80db-ebe3de713876 | '' |
 | showBuildings | A Boolean that determines whether or not buildings are rendered | true |
 
